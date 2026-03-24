@@ -75,14 +75,10 @@ global-equity-indices-tableau-dashboard/
 ├── README.md
 ├── images/
 │   └── dashboard_preview.png
-├── pdf/
-│   └── global_equity_indices_dashboard.pdf
 ├── data/
 │   ├── tableau_major_indices_daily.csv
 │   ├── tableau_index_summary.csv
 │   └── tableau_yearly_returns.csv
-└── docs/
-    └── notes.md
 ```
 
 ## Method Notes
