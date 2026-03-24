@@ -68,12 +68,9 @@ tableau_index_summary.csv
 tableau_yearly_returns.csv
 ```
 
-## Tools Used
-Tableau Public for dashboard development and publishing
-CSV data preparation for shaping the dataset into analysis-ready inputs
+## Repository Structure
 
 ```
-Repository Structure
 global-equity-indices-tableau-dashboard/
 ├── README.md
 ├── images/
@@ -88,7 +85,8 @@ global-equity-indices-tableau-dashboard/
     └── notes.md
 ```
 
-Method Notes
+## Method Notes
+
 Figures are shown as of 24 June 2024.
 Indices are shown in local market terms and are not FX-adjusted investor returns.
 The indexed performance and heatmap views focus on a selected set of headline indices for readability.
