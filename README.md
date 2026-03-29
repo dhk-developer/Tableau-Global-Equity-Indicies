@@ -13,7 +13,7 @@ The dashboard was designed as a portfolio project with an emphasis on clarity, c
 
 ## Dashboard Preview
 
-![Dashboard preview](images/preview.png)
+![Dashboard preview](images/image.png)
 
 View the interactive dashboard on Tableau Public (https://public.tableau.com/app/profile/daehurn/viz/GlobalEquityIndices/GlobalEquityIndicesPerformanceRiskMarketRotation?publish=yes)
 
